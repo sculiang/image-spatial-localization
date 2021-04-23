@@ -1,0 +1,16 @@
+1.Ground Truth of the Fixed Point  in Scenario 1:
+   longitude: 103.9868656
+   latitude: 30.62812318
+
+
+2.Ground Truth Line in Scenario 2:
+   Top point)
+   longitude: 103.9871481
+   latitude: 30.62829454
+   Intermediate point)
+   longitude: 103.9871639
+   latitude: 30.62823419
+   Bottom point)
+   longitude: 103.9866875
+   latitude: 30.62801638
+   The ground truth line is acquired by connecting top point with intermediate point and connecting intermediate point with bottom point.
